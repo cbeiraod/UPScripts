@@ -30,7 +30,7 @@ python -m pip install openpyxl
 ```
 
 ### Activation
-Active the venv with: `source venv/ben/activate`
+Active the venv with: `source venv/bin/activate`
 
 ### Deactivation
 Once you are done and if you no longer need the venv, it can be deactivated with: `deactivate`
